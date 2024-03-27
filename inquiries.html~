@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<title>M-Band Observations of the Coldest Brown Dwarfs</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-flat.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<style>
+
+body  {
+  font-family: Roboto, sans-serif;
+  background-color: #eeeeee;
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+  font-family: Roboto, sans-serif;
+  color: #043b67;
+}
+
+p {
+  font-family: Roboto, sans-serif;
+color: #043b67;
+max-width:600px
+}
+
+/* Style the header */
+.header {
+  font-family: Roboto, sans-serif;
+  padding: 20px;
+}
+
+/* Left and right column */
+.column.side {
+  width: 70%;
+}
+
+
+/* mouse over link */
+a:hover {
+  color: #dd640a;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #eeeeee;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #043b67;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #bbb9b9;
+}
+
+li {
+  border-right: 1px solid #bbb;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+
+
+
+
+</style>
+<body>
+
+
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="CVBEM.pdf">CV</a></li>
+  <li><a href ="https://ui.adsabs.harvard.edu/#search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FMiles%2C%20B%2FMiles%2C%20Brittany%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FMiles%2C%20B%2FMiles%2C%20Brittany%20E%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FMiles%2C%20B%2FMiles%2C%20Brittany%22%20OR%20author_facet_hier%3A%221%2FMiles%2C%20B%2FMiles%2C%20Brittany%20E%22)&p_=0&q=%20author%3A%22Miles%2C%20Brittany%22&sort=date%20desc%2C%20bibcode%20desc">Publications</a></li>
+  <li><a href ="mailto:bmiles@ucsc.edu">Email</a></li>
+</ul>
+
+
+
+<div class="column side w3-container w3-padding-16">
+
+<h3>M-Band Observations of the Coldest Brown Dwarfs</h3>
+
+<p>Cold brown dwarfs are excellent analogs of widely separated, gas giant exoplanets, and provide insight into the potential atmospheric chemistry and physics we may encounter in objects discovered by future direct imaging surveys.  For this project we completed a low resolution (R∼300) M-band spectroscopic sequence of seven brown dwarfs with effective temperatures between 750 K and 250 K along with Jupiter. These spectra reveal disequilibrium abundances of carbon monoxide (CO), which are produced by atmospheric quenching driven by convection.  We estimated the strength of vertical mixing from the CO abundances by calculating the eddy diffusion coefficient (K<sub>zz</sub>) for each brown dwarf and Jupiter. The K<sub>zz</sub> values of cooler objects are close to their theoretical maximum and warmer objects show weaker mixing, likely due to less efficient convective mixing in primarily radiative layers. The CO-derived K<sub>zz</sub> values imply that disequilibrium phosphine (PH<sub>3</sub>) should be easily observable in all of the brown dwarfs, but none show any evidence for PH<sub>3</sub> absorption.  We find that ammonia (NH<sub>3</sub>) is relatively insensitive to atmospheric quenching at these effective temperatures.</p>
+
+<p>You can read the paper and get the spectra <a href = "https://ui.adsabs.harvard.edu/abs/2020arXiv200410770M/abstract"> here. </a></p>
+
+
+<span class="image main"><img src="images/m_band_sequence.png" width="600" alt=""/></span>
+
+<p style="text-align:center;"><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2EznBGrlmx9wBeYgyDojsA?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></p>
+
+
+
+
+
+
+</div>
+
+
+
+</body>
+</html> 
