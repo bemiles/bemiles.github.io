@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Papers on Dr. Brittany E. Miles</title>
+    <link>//localhost:1313/projects/</link>
+    <description>Recent content in Papers on Dr. Brittany E. Miles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A 1 to 20 μm Spectrum of VHS 1256–1257 b</title>
+      <link>//localhost:1313/projects/paper2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/paper2/</guid>
+      <description>Uncovering theturbulent and cloudy atmosphere of VHS 1256b with JWST.</description>
+    </item>
+    
+    <item>
+      <title>Disequilibrium CO Chemistry in the Coldest Brown Dwarfs</title>
+      <link>//localhost:1313/projects/paper1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/paper1/</guid>
+      <description>Bridging the gap between chemistry in the coldest brown dwarfs and Solar System gas giant planets.</description>
+    </item>
+    
+    <item>
+      <title>Long Wavelength Detectors and Spectroscopy</title>
+      <link>//localhost:1313/projects/paper5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/paper5/</guid>
+      <description>Always looking for the perfect detector that doesnt exist yet.</description>
+    </item>
+    
+    <item>
+      <title>Probing the Depths</title>
+      <link>//localhost:1313/projects/paper4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/paper4/</guid>
+      <description>Mapping 1-D Mixing Profiles of Brown Dwarfs with JWST.</description>
+    </item>
+    
+  </channel>
+</rss>
