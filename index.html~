@@ -86,7 +86,7 @@
 <body class="list" id="top">
     <main class="main"><div class="profile">
     <div class="profile_inner">
-        <img draggable="false" src="headshot2.JPG" alt="Brittany" title="Brittany"
+        <img draggable="false" src="//localhost:1313/headshot2.JPG" alt="Brittany" title="Brittany"
             height="200" width="200" />
         <h1>Dr. Brittany E. Miles</h1>
         <span>I use mid-infrared spectroscopy to characterize the atmospheres of brown dwarfs and gas giant exoplanets. I want to improve ground-based mid-infrared instruments to characterize existing exoplanets and find Earth-like planets. I am currently a 51 Pegasi b and Presidential Postdoctoral Fellow at the University of Arizona.</span><div class="social-icons">
