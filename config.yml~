@@ -1,37 +1,31 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+baseURL: "bemiles.github.io/" 
+title: Dr. Brittany E. Miles
 paginate: 20
 theme: PaperMod
 
-enableInlineShortcodes: true
-enableRobotsTXT: true
+enableInlineShortcodes: false
+enableRobotsTXT: false
 
 taxonomies:
     tag: tags
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Projects
+          url: projects/
           weight: 1
-        - name: Courses
-          url: courses/
-          weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
+        - name: CV
+          url: CV_BEM_03182024.pdf
           weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
+    description: "I am an astronomy postdoc at the University of Arizona.
 consequat."
-    author: Name
+    author: Brittany E. Miles
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -50,44 +44,30 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Prof. Name
+          title: Dr. Brittany E. Miles
+          subtitle: "I use mid-infrared spectroscopy to characterize the atmospheres of brown dwarfs and gas giant exoplanets. I want to improve ground-based mid-infrared instruments to characterize existing exoplanets and find Earth-like planets. I am currently a 51 Pegasi b and Presidential Postdoctoral Fellow at the University of Arizona."
+          imageUrl: "headshot2.JPG"
+          imageWidth: 200
+          imageHeight: 200
+          imageTitle: Brittany
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            - name: About
+              url: about
+            - name: Projects
+              url: projects
+            - name: CV
+              url: CV_BEM_03182024.pdf
+            - name: The Research Garden
+              url: "https://infraredastronomy.tumblr.com/"	      
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: CV_BEM_03182024.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+          url: mailto:bemiles@arizona.edu
         - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://twitter.com/_BEMILES
+        
+        
 
     assets:
         disableHLJS: true
@@ -96,8 +76,8 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
-      icon: favicon.ico
+      text: "Dr. Brittany E. Miles"
+      icon: "sunflower.ico"
       iconHeight: 18
 
 markup:
