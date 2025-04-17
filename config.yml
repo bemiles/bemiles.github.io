@@ -45,7 +45,7 @@ consequat."
     profileMode:
           enabled: true
           title: Dr. Brittany E. Miles
-          subtitle: "I use mid-infrared spectroscopy to characterize the atmospheres of brown dwarfs and gas giant exoplanets. I want to improve ground-based mid-infrared instruments to characterize existing exoplanets and find Earth-like planets. I am currently a 51 Pegasi b and Presidential Postdoctoral Fellow at the University of Arizona."
+          subtitle: "I use mid-infrared spectroscopy to characterize the atmospheres of brown dwarfs and exoplanets. I want to improve ground-based mid-infrared instruments to characterize existing exoplanets and find Earth-like planets. I am currently a 51 Pegasi b and Presidential Postdoctoral Fellow at the University of Arizona. Fall 2025 I will join the faculty at Steward Observatory as an assistant professor."
           imageUrl: "headshot2.JPG"
           imageWidth: 200
           imageHeight: 200
@@ -55,10 +55,14 @@ consequat."
               url: about
             - name: Projects
               url: projects
+            - name: Research Group
+              url: group
+            - name: Research Opportunities
+              url: opportunities
             - name: CV
               url: CV_BEM_03182024.pdf
-            - name: The Research Garden
-              url: "https://infraredastronomy.tumblr.com/"	      
+            - name: Blog
+              url: "https://infraredastronomy.tumblr.com/"
     socialIcons:
         - name: CV
           url: CV_BEM_03182024.pdf
