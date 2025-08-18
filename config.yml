@@ -3,8 +3,9 @@ title: Dr. Brittany E. Miles
 paginate: 20
 theme: PaperMod
 
+
 enableInlineShortcodes: false
-enableRobotsTXT: false
+enableRobotsTXT: True
 
 taxonomies:
     tag: tags
@@ -25,7 +26,7 @@ consequat."
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: true
+    hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -45,10 +46,10 @@ consequat."
     profileMode:
           enabled: true
           title: Dr. Brittany E. Miles
-          subtitle: "I use mid-infrared spectroscopy to characterize the atmospheres of brown dwarfs and exoplanets. I want to improve ground-based mid-infrared instruments to characterize existing exoplanets and find Earth-like planets. I am currently a 51 Pegasi b and Presidential Postdoctoral Fellow at the University of Arizona. Fall 2025 I will join the faculty at Steward Observatory as an assistant professor."
-          imageUrl: "headshot2.JPG"
-          imageWidth: 200
-          imageHeight: 200
+          subtitle: "I am an <b>assistant professor</b> at Steward Observatory within the University of Arizona. I use mid-infrared spectroscopy to characterize the atmospheres of brown dwarfs and exoplanets. I want to improve ground-based mid-infrared instruments to characterize existing exoplanets and find Earth-like planets."
+          imageUrl: "bd.png"
+          imageWidth: 700
+          imageHeight: 465
           imageTitle: Brittany
           buttons:
             - name: About
@@ -77,6 +78,8 @@ consequat."
         disableHLJS: true
         disableScrollBarStyle: true
     cover:
+        image: "bd.png"
+        hidden: false
         hiddenInList: false
         hiddenInSingle: true
     label:
