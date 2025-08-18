@@ -15,7 +15,7 @@ menu:
           url: projects/
           weight: 1
         - name: CV
-          url: CV_BEM_08172025.pdf
+          url: CV_BEM.pdf
           weight: 4
 
 params:
@@ -60,12 +60,14 @@ consequat."
             - name: Research Opportunities
               url: opportunities
             - name: CV
-              url: CV_BEM_08172025.pdf
+              url: CV_BEM.pdf
+            - name: Publications
+              url: "https://ui.adsabs.harvard.edu/search/q=docs(library%2FEN60j0GSQr2qKjHKjcZCEg)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
             - name: Blog
               url: "https://infraredastronomy.tumblr.com/"
     socialIcons:
         - name: CV
-          url: CV_BEM_08172025.pdf
+          url: CV_BEM.pdf
         - name: Email
           url: mailto:bemiles@arizona.edu
         
