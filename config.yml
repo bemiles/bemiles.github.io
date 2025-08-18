@@ -15,7 +15,7 @@ menu:
           url: projects/
           weight: 1
         - name: CV
-          url: CV_BEM_03182024.pdf
+          url: CV_BEM_08172025.pdf
           weight: 4
 
 params:
