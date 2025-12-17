@@ -16,7 +16,7 @@ editPost:
 
 ## Undergraduates
 <b>Rebekah Boisvert (2025 - )</b></br>
-NASA Space Grant Undergraduate </p>
+NASA Space Grant Undergraduate Researcher </p>
 
 <b>Ruben Huerta (2025 - )</b></br>
 "Assessing the Seek Thermal Mosaic Core for Ground-Based Astronomy" </p>
