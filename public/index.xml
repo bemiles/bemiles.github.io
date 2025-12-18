@@ -36,6 +36,15 @@
     
     <item>
       <title></title>
+      <link>//localhost:1313/_opportunities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/_opportunities/</guid>
+      <description>Research Opportunities I am looking for graduate students and postdocs to join my research group. If you are interested in collaborating or pursuing research within my research group email me at bemiles@arizona.edu .</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>//localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -51,15 +60,6 @@
       <guid>//localhost:1313/group/</guid>
       <description>Group Members Undergraduates Rebekah Boisvert (2025 - ) NASA Space Grant Undergraduate Researcher Ruben Huerta (2025 - ) &amp;ldquo;Assessing the Seek Thermal Mosaic Core for Ground-Based Astronomy&amp;rdquo; Ella Butler (Summer 2025) &amp;ldquo;Using Atmospheric Models for the TEMPO Exposure Time Calculator&amp;rdquo;
 Animesh Garg (2023 - 2025) &amp;ldquo;Jupiter as an Exoplanet seen by HST&amp;rdquo;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//localhost:1313/opportunities/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/opportunities/</guid>
-      <description>Research Opportunities I am looking for graduate students and postdocs to join my research group. If you are interested in collaborating or pursuing research within my research group email me at bemiles@arizona.edu .</description>
     </item>
     
     <item>
@@ -115,6 +115,15 @@ Animesh Garg (2023 - 2025) &amp;ldquo;Jupiter as an Exoplanet seen by HST&amp;rd
       
       <guid>//localhost:1313/projects/paper4/</guid>
       <description>Mapping 1-D Mixing Profiles of Brown Dwarfs with JWST.</description>
+    </item>
+    
+    <item>
+      <title>TEMPO - Thermal Infrared Imager and Spectrograph</title>
+      <link>//localhost:1313/projects/paper6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/paper6/</guid>
+      <description>LWIR IFU</description>
     </item>
     
   </channel>
