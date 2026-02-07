@@ -53,22 +53,26 @@
   </url><url>
     <loc>//localhost:1313/group/</loc>
   </url><url>
+    <loc>//localhost:1313/instrumentation/mirac5_ifu/</loc>
+  </url><url>
+    <loc>//localhost:1313/instrumentation/tempo/</loc>
+  </url><url>
     <loc>//localhost:1313/projects/paper2/</loc>
   </url><url>
     <loc>//localhost:1313/archive/</loc>
   </url><url>
     <loc>//localhost:1313/projects/paper1/</loc>
   </url><url>
+    <loc>//localhost:1313/instrumentation/</loc>
+  </url><url>
     <loc>//localhost:1313/location/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/paper5/</loc>
+    <loc>//localhost:1313/instrumentation/lwir_h1rg/</loc>
   </url><url>
     <loc>//localhost:1313/officehours/</loc>
   </url><url>
     <loc>//localhost:1313/projects/</loc>
   </url><url>
     <loc>//localhost:1313/projects/paper4/</loc>
-  </url><url>
-    <loc>//localhost:1313/projects/paper6/</loc>
   </url>
 </urlset>

@@ -25,30 +25,12 @@
     </item>
     
     <item>
-      <title>Long Wavelength Detectors and Spectroscopy</title>
-      <link>//localhost:1313/projects/paper5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/projects/paper5/</guid>
-      <description>Always looking for the perfect detector that doesnt exist yet.</description>
-    </item>
-    
-    <item>
       <title>Probing the Depths</title>
       <link>//localhost:1313/projects/paper4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/projects/paper4/</guid>
       <description>Mapping 1-D Mixing Profiles of Brown Dwarfs with JWST.</description>
-    </item>
-    
-    <item>
-      <title>TEMPO - Thermal Infrared Imager and Spectrograph</title>
-      <link>//localhost:1313/projects/paper6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/projects/paper6/</guid>
-      <description>LWIR IFU</description>
     </item>
     
   </channel>

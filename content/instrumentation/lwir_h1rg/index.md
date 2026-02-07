@@ -1,6 +1,6 @@
 ---
 title: Long Wavelength Detectors and Spectroscopy
-author: Brittany Miles
+author: " "
 description: 
 summary: Always looking for the perfect detector that doesnt exist yet.
 date: 
@@ -25,7 +25,7 @@ The project initially used the former Keck Angle Tracker dewar. The previous fil
 
 You can read the paper summarizing some of the Santa Cruz detector work <a href = "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11823/118230J/Testing-a-10-micron-HgCdTe-detector-for-ground-based-exoplanet/10.1117/12.2594915.short"> here. </a></p>
 
-While waiting for the opportunity to continue detector work, I have been using technical time to test the grism within NOMIC (N-band imager) on the Large Binocular Telescope Interferometer. With 30-meter class telescopes coming online, the technologies and observational strategies used within the mid-infrared need to be revisited, especially for spectroscopy.
+While waiting for the opportunity to continue detector work, I used technical time to test the grism within NOMIC (N-band imager) on the Large Binocular Telescope Interferometer. You can read about that work <a href = "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11823/118230J/Testing-a-10-micron-HgCdTe-detector-for-ground-based-exoplanet/10.1117/12.2594915.short"> here. </a></p>
 
 
 ---

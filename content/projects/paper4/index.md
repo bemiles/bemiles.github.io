@@ -1,6 +1,6 @@
 ---
 title: Probing the Depths
-author: "Brittany Miles"
+author: " "
 description: "" 
 summary: "Mapping 1-D Mixing Profiles of Brown Dwarfs with JWST." 
 cover:

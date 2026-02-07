@@ -15,6 +15,7 @@ editPost:
 # Group Members
 
 ## Undergraduates
+<b>Nikoli "Niko" Cooper (2026 - )</b></br></p>
 <b>Rebekah Boisvert (2025 - )</b></br>
 NASA Space Grant Undergraduate Researcher </p>
 

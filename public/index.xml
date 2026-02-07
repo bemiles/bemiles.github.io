@@ -58,8 +58,27 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/group/</guid>
-      <description>Group Members Undergraduates Rebekah Boisvert (2025 - ) NASA Space Grant Undergraduate Researcher Ruben Huerta (2025 - ) &amp;ldquo;Assessing the Seek Thermal Mosaic Core for Ground-Based Astronomy&amp;rdquo; Ella Butler (Summer 2025) &amp;ldquo;Using Atmospheric Models for the TEMPO Exposure Time Calculator&amp;rdquo;
+      <description>Group Members Undergraduates Nikoli &amp;ldquo;Niko&amp;rdquo; Cooper (2026 - )
+Rebekah Boisvert (2025 - ) NASA Space Grant Undergraduate Researcher Ruben Huerta (2025 - ) &amp;ldquo;Assessing the Seek Thermal Mosaic Core for Ground-Based Astronomy&amp;rdquo; Ella Butler (Summer 2025) &amp;ldquo;Using Atmospheric Models for the TEMPO Exposure Time Calculator&amp;rdquo;
 Animesh Garg (2023 - 2025) &amp;ldquo;Jupiter as an Exoplanet seen by HST&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/instrumentation/mirac5_ifu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/instrumentation/mirac5_ifu/</guid>
+      <description>IFU Upgrade for MIRAC-5 on the MMT</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/instrumentation/tempo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/instrumentation/tempo/</guid>
+      <description>Thermal-IR Exoplanet Imager and Spectrograph for the Large Binocular Telescope</description>
     </item>
     
     <item>
@@ -92,10 +111,10 @@ Animesh Garg (2023 - 2025) &amp;ldquo;Jupiter as an Exoplanet seen by HST&amp;rd
     
     <item>
       <title>Long Wavelength Detectors and Spectroscopy</title>
-      <link>//localhost:1313/projects/paper5/</link>
+      <link>//localhost:1313/instrumentation/lwir_h1rg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/paper5/</guid>
+      <guid>//localhost:1313/instrumentation/lwir_h1rg/</guid>
       <description>Always looking for the perfect detector that doesnt exist yet.</description>
     </item>
     
@@ -115,15 +134,6 @@ Animesh Garg (2023 - 2025) &amp;ldquo;Jupiter as an Exoplanet seen by HST&amp;rd
       
       <guid>//localhost:1313/projects/paper4/</guid>
       <description>Mapping 1-D Mixing Profiles of Brown Dwarfs with JWST.</description>
-    </item>
-    
-    <item>
-      <title>TEMPO - Thermal Infrared Imager and Spectrograph</title>
-      <link>//localhost:1313/projects/paper6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/projects/paper6/</guid>
-      <description>LWIR IFU</description>
     </item>
     
   </channel>

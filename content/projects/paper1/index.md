@@ -1,6 +1,6 @@
 ---
 title: "Disequilibrium CO Chemistry in the Coldest Brown Dwarfs"
-author: "Brittany Miles"
+author: " "
 description: "" 
 summary: "Bridging the gap between chemistry in the coldest brown dwarfs and Solar System gas giant planets." 
 cover:

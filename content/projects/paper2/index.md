@@ -1,6 +1,6 @@
 ---
 title: A 1 to 20 μm Spectrum of VHS 1256–1257 b
-author: "Brittany Miles"
+author: " "
 description: "" 
 summary: "Uncovering theturbulent and cloudy atmosphere of VHS 1256b with JWST." 
 cover:
