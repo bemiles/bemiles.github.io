@@ -24,6 +24,8 @@ We are developing TEMPO, the Thermal-IR Exoplanet Imager and Spectrograph for th
 ![](contrast.png)
 ![](modes.png)
 
+If you are interested in developing science cases and/or requirements for TEMPO, contact the PI: Brittany Miles at bemiles "at" arizona "dot" edu
+
 ---
 
 ### Instrument Team Members
