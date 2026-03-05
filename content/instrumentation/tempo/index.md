@@ -22,6 +22,8 @@ We are developing TEMPO, the Thermal-IR Exoplanet Imager and Spectrograph for th
 
 ##### 
 ![](contrast.png)
+![](modes_short.png)
+![](modes_long.png)
 
 ---
 
