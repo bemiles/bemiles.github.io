@@ -20,11 +20,19 @@ editPost:
 
 We are developing TEMPO, the Thermal-IR Exoplanet Imager and Spectrograph for the Large Binocular Telescope to do in depth atmospheric characterization of existing exoplanets, Solar System gas giants, circumstellar disks, and demonstrate the potential capabilities of 30-m class telescopes to find and characterize Earth-like planets. TEMPO will have two channels, near to mid-infrared and long-wavelength infrared, each with imaging and integral field spectrograph (IFS) modes to accomplish this goal. TEMPO will be the first instrument ever to spectroscopically characterize Jupiter-like exoplanets within the N-band (7.5--14 $\mu$m) from the ground. This technical feat is an important step on the path to studying rocky, Earth-like planets on 30-meter class facilities.
 
+
+
 ##### 
 ![](contrast.png)
+
+
+## Tentative Modes
 ![](modes.png)
 
-If you are interested in developing science cases and/or requirements for TEMPO, contact the PI: Brittany Miles at bemiles "at" arizona "dot" edu
+If you are interested in potential science cases and/or technological developments for TEMPO, contact the PI: Brittany Miles at bemiles "at" arizona "dot" edu
+
+
+
 
 ---
 
