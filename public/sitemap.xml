@@ -57,6 +57,8 @@
   </url><url>
     <loc>//localhost:1313/instrumentation/tempo/</loc>
   </url><url>
+    <loc>//localhost:1313/teaching/</loc>
+  </url><url>
     <loc>//localhost:1313/projects/paper2/</loc>
   </url><url>
     <loc>//localhost:1313/archive/</loc>
