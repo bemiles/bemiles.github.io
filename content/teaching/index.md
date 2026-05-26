@@ -13,8 +13,10 @@ editPost:
 
 ---
 ## Classes
+Fall 2026 ASTR302
+
 Spring 2026 ASTR302
 
-Fall 2026 ASTR302
+
 
 

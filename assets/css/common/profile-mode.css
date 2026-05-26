@@ -20,6 +20,9 @@
 .profile img {
     display: inline-table;
     border-radius: 0%;
+    width: 700px;
+    max-width: 100%;
+    height: auto;
 }
 
 .buttons {

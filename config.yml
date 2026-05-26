@@ -20,7 +20,7 @@ menu:
           weight: 4
 
 params:
-    description: "I am an astronomy postdoc at the University of Arizona.
+    description: "I am an assistant professor of astrophysics at the University of Arizona.
 consequat."
     author: Brittany E. Miles
     # googleAnalyticsID: "G-XXXXX"
@@ -46,10 +46,9 @@ consequat."
     profileMode:
           enabled: true
           title: Dr. Brittany E. Miles
-          subtitle: "I am an <b>assistant professor</b> at Steward Observatory within the University of Arizona. I use mid-infrared spectroscopy to characterize the atmospheres of brown dwarfs and exoplanets. I want to improve ground-based mid-infrared instruments to characterize existing exoplanets and find Earth-like planets."
+          subtitle: "I am an <b>assistant professor</b> at Steward Observatory within the University of Arizona. I use mid-infrared spectroscopy to characterize the atmospheres of brown dwarfs and exoplanets. I want to build ground-based mid-infrared instruments to characterize existing exoplanets and find Earth-like planets."
           imageUrl: "bd.png"
           imageWidth: 700
-          imageHeight: 465
           imageTitle: Brittany
           buttons:
             - name: About
@@ -60,17 +59,18 @@ consequat."
               url: instrumentation
             - name: Research Group
               url: group
+            - name: Teaching
+              url: teaching
             - name: CV
               url: CV_BEM.pdf
             - name: Publications
               url: "https://ui.adsabs.harvard.edu/search/q=docs(library%2FEN60j0GSQr2qKjHKjcZCEg)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
-        
     socialIcons:
         - name: CV
           url: CV_BEM.pdf
         - name: Email
           url: mailto:bemiles@arizona.edu
-        
+
         
 
     assets:

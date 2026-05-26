@@ -49,7 +49,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/about/</guid>
-      <description>About I grew up in the Los Angeles area and love my family dearly. I stayed in LA County to complete my bachelor&amp;rsquo;s in Physics and minor in Geophysics and Planetary Physics at UCLA. After undergrad I moved to Santa Cruz to complete my master&amp;rsquo;s and doctorate in Astronomy and Astrophysics. During this time I got over my fear of the water and learned how to swim, eventually gaining the courage of get out on the ocean on a surfboard.</description>
+      <description>About I completed my bachelor&amp;rsquo;s in Physics and minor in Geophysics and Planetary Physics at UCLA. After undergrad I moved to UC Santa Cruz and earned my master&amp;rsquo;s and doctorate in Astronomy and Astrophysics. During my time at Santa Cruz, I was a Eugene Cota-Robles and NSF Graduate Research Fellow. Post-PhD, I spent a summer working at UC Irvine as a UC presidential postdoctoral fellow. I finally moved to the University of Arizona as a 51 Pegasi b and Presidential Fellow, then transistioned into my current role as an assistant professor.</description>
     </item>
     
     <item>
@@ -58,9 +58,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/group/</guid>
-      <description>Group Members Undergraduates Nikoli &amp;ldquo;Niko&amp;rdquo; Cooper (2026 - )
-Rebekah Boisvert (2025 - ) NASA Space Grant Undergraduate Researcher Ruben Huerta (2025 - ) &amp;ldquo;Assessing the Seek Thermal Mosaic Core for Ground-Based Astronomy&amp;rdquo; Ella Butler (Summer 2025) &amp;ldquo;Using Atmospheric Models for the TEMPO Exposure Time Calculator&amp;rdquo;
-Animesh Garg (2023 - 2025) &amp;ldquo;Jupiter as an Exoplanet seen by HST&amp;rdquo;</description>
+      <description>Current Group Members Postdoctoral Scholars Changgon Kim (2026 - ) MIRAC-5 IFU upgrade and TEMPO optical design (in collaboration with LOFT)
+Undergraduates Nikoli &amp;ldquo;Niko&amp;rdquo; Cooper (2026 - ) &amp;ldquo;Designing a Flat-field Source for a Mid-IR Telescope&amp;rdquo;
+Rebekah Boisvert (2025 - ) NASA Space Grant Undergraduate Researcher Reducing and Analyzing Mid-IR Observations of Brown Dwarfs
+Ruben Huerta (2025 - ) &amp;ldquo;Assessing the Seek Thermal Mosaic Core for Ground-Based Astronomy&amp;rdquo;
+Former Group Members Ella Butler (Summer 2025) &amp;ldquo;Using Atmospheric Models for the TEMPO Exposure Time Calculator&amp;rdquo;</description>
     </item>
     
     <item>
@@ -83,12 +85,21 @@ Animesh Garg (2023 - 2025) &amp;ldquo;Jupiter as an Exoplanet seen by HST&amp;rd
     
     <item>
       <title></title>
+      <link>//localhost:1313/teaching/a302/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/teaching/a302/</guid>
+      <description>ASTR302: Introduction to Observational Astronomy Course Description Students will learn how to develop and execute an observing program with optical/infrared telescopes. Experience with computers and some python is required. We will cover how various types of telescopes and their instruments work to take data across the electromagnetic spectrum in various formats. Students will learn about measurement error and error propagation along with its application in interpreting astronomical observations. Weather permitting, students will execute their own observing program in small groups using the 61” Kuiper Telescope.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>//localhost:1313/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/teaching/</guid>
-      <description>Classes Spring 2026 ASTR302
-Fall 2026 ASTR302</description>
+      <description>Classes Fall 2026 ASTR302
+Spring 2026 ASTR302</description>
     </item>
     
     <item>

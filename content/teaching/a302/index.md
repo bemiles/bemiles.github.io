@@ -21,13 +21,14 @@ Students will learn how to develop and execute an observing program with optical
 ### Expected Outcomes and Goals
 *	Understand measurement precision, accuracy, and uncertainty. 
 *	Locate astronomical targets on the celestial sphere. Understand how certain astronomical objects move over time.
-*	Describe how telescopes collect light and instruments record imaging or spectroscopic data.
-*	Search for various types of astronomical data: coordinates, photometric and telluric standards.
-*	Archival detector/receiver images from different observatories
+*	Describe how telescopes collect light and instruments record imaging and spectroscopic data.
+*	Search for various types of astronomical data: coordinates, raw data, photometric and telluric standards.
 *	Create a plan to execute an observational or archival astronomical program.
-*	Visualize data from astronomical instruments using software and python code.
-*	Reduce astronomical data using Jupyter notebooks or python scripts.
+*	Visualize and reduce data from astronomical instruments using software and python code.
 
 ## Syllabus
 
 ## Assignments
+
+## Lectures
+

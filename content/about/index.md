@@ -13,9 +13,11 @@ editPost:
 
 ---
 ## About
-I grew up in the Los Angeles area and love my family dearly. I stayed in LA County to complete my bachelor's in Physics and minor in Geophysics and Planetary Physics  at UCLA. After undergrad I moved to Santa Cruz to complete my master's and doctorate in Astronomy and Astrophysics. During this time I got over my fear of the water and learned how to swim, eventually gaining the courage of get out on the ocean on a surfboard. After my PhD, I spent a short time working at UC Irvine as a UC presidential postdoc. I enjoyed waiting out rush hour traffic by gaming at the UC Irvine e-sports arena. As of Fall 2022 I'm experiencing the beauty of the desert in the state of Arizona.
+I completed my bachelor's in Physics and minor in Geophysics and Planetary Physics at UCLA. After undergrad I moved to UC Santa Cruz and earned my master's and doctorate in Astronomy and Astrophysics. During my time at Santa Cruz, I was a Eugene Cota-Robles and NSF Graduate Research Fellow. Post-PhD, I spent a summer working at UC Irvine as a UC presidential postdoctoral fellow. I finally moved to the University of Arizona as a 51 Pegasi b and Presidential Fellow, then transistioned into my current role as an assistant professor.
 
-I was a 51 Pegasi b and Presidential Fellow at the University of Arizona then transistioned into an assistant professor. I love taking care of plants, working with students, and novelty.
+<a href="https://infraredastronomy.tumblr.com/">Thoughts</a>
+
+<a href="linkedin.com/in/brittanyemiles">Linkedin</a>
 
 
 
