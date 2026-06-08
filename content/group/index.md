@@ -19,10 +19,11 @@ MIRAC-5 IFU upgrade and TEMPO optical design</br>
 (in collaboration with <a href = "https://wp.optics.arizona.edu/loft/">LOFT</a>)
 
 ## Graduate Students
-<b>Nikoli "Niko" Cooper (2026 - )</b></br>
+<b>Debstuti Biswas</b></br>
 
 ## Undergraduates
-<b>Debstuti Biswas (starting Fall 2026 )</b></br>
+<b>Nikoli "Niko" Cooper (2026 - )</b></br>
+"Designing a Flat-field Source for a Mid-IR Telescope"
 
 
 <b>Rebekah Boisvert (2025 - )</b></br>
