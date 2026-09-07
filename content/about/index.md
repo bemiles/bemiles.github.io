@@ -19,5 +19,7 @@ I completed my bachelor's in Physics and minor in Geophysics and Planetary Physi
 
 <a href="linkedin.com/in/brittanyemiles">Linkedin</a>
 
+<a href="instagram.com/310astronomer">Instagram</a>
+
 
 
