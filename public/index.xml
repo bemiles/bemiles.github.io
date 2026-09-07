@@ -59,10 +59,11 @@
       
       <guid>//localhost:1313/group/</guid>
       <description>Current Group Members Postdoctoral Scholars Changgon Kim (2026 - ) MIRAC-5 IFU upgrade and TEMPO optical design (in collaboration with LOFT)
-Undergraduates Nikoli &amp;ldquo;Niko&amp;rdquo; Cooper (2026 - ) &amp;ldquo;Designing a Flat-field Source for a Mid-IR Telescope&amp;rdquo;
-Rebekah Boisvert (2025 - ) NASA Space Grant Undergraduate Researcher Reducing and Analyzing Mid-IR Observations of Brown Dwarfs
-Ruben Huerta (2025 - ) &amp;ldquo;Assessing the Seek Thermal Mosaic Core for Ground-Based Astronomy&amp;rdquo;
-Former Group Members Ella Butler (Summer 2025) &amp;ldquo;Using Atmospheric Models for the TEMPO Exposure Time Calculator&amp;rdquo;</description>
+Graduate Students Debstuti Biswas
+Undergraduates Osmar Abrego (2026 - ) NASA Space Grant Undergraduate Researcher
+Naomi Fitts (2026 - ) TIMESTEP Intern
+Nikoli &amp;ldquo;Niko&amp;rdquo; Cooper (2026 - ) &amp;ldquo;Designing a Flat-field Source for a Mid-IR Telescope&amp;rdquo;
+Rebekah Boisvert (2025 - ) NASA Space Grant Undergraduate Researcher Reducing and Analyzing Mid-IR Observations of Brown Dwarfs</description>
     </item>
     
     <item>
@@ -81,15 +82,6 @@ Former Group Members Ella Butler (Summer 2025) &amp;ldquo;Using Atmospheric Mode
       
       <guid>//localhost:1313/instrumentation/tempo/</guid>
       <description>Thermal-IR Exoplanet Imager and Spectrograph for the Large Binocular Telescope</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//localhost:1313/teaching/a302/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/teaching/a302/</guid>
-      <description>ASTR302: Introduction to Observational Astronomy Course Description Students will learn how to develop and execute an observing program with optical/infrared telescopes. Experience with computers and some python is required. We will cover how various types of telescopes and their instruments work to take data across the electromagnetic spectrum in various formats. Students will learn about measurement error and error propagation along with its application in interpreting astronomical observations. Weather permitting, students will execute their own observing program in small groups using the 61” Kuiper Telescope.</description>
     </item>
     
     <item>

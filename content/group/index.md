@@ -22,6 +22,14 @@ MIRAC-5 IFU upgrade and TEMPO optical design</br>
 <b>Debstuti Biswas</b></br>
 
 ## Undergraduates
+
+<b>Osmar Abrego (2026 - )</b></br>
+NASA Space Grant Undergraduate Researcher</br>
+
+<b>Naomi Fitts (2026 - )</b></br>
+TIMESTEP Intern</br>
+
+
 <b>Nikoli "Niko" Cooper (2026 - )</b></br>
 "Designing a Flat-field Source for a Mid-IR Telescope"
 
@@ -30,12 +38,13 @@ MIRAC-5 IFU upgrade and TEMPO optical design</br>
 NASA Space Grant Undergraduate Researcher</br>
 Reducing and Analyzing Mid-IR Observations of Brown Dwarfs
 
-<b>Ruben Huerta (2025 - )</b></br>
-<a href = "https://github.com/RAHuerta050/seek_mosaic_core_code">"Assessing the Seek Thermal Mosaic Core for Ground-Based Astronomy"</a></p>
 
 # Former Group Members
 
-<b>Ella Butler (Summer 2025)</b></br>
+<b>Ruben Huerta (2025 - 2026)</b> now at Raytheon</br>
+<a href = "https://github.com/RAHuerta050/seek_mosaic_core_code">"Assessing the Seek Thermal Mosaic Core for Ground-Based Astronomy"</a></p>
+
+<b>Ella Butler (Summer 2025)</b> now Masters Student in Optical Sciences at Arizona</br>
 <a href = "https://github.com/bemiles/TEMPO/blob/main/etc/README">"Using Atmospheric Models for the TEMPO Exposure Time Calculator"</a></p>
 
 <b>Animesh Garg (2023 - 2025)</b></br>
