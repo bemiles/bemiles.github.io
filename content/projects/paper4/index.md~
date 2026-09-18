@@ -1,15 +1,15 @@
 ---
-title: "Disequilibrium CO Chemistry in the Coldest Brown Dwarfs"
+title: "Observations of Disequilibrium CO Chemistry in the Coldest Brown Dwarfs"
 author: " "
-description: "" 
+description: "This paper shows other things. Published in Journal Name, 2015." 
 summary: "Bridging the gap between chemistry in the coldest brown dwarfs and Solar System gas giant planets." 
 cover:
-    image: "bd_banner.jpg"
+    image: ""
     alt: "Image caption"
     relative: false
 editPost:
     URL: "https://ui.adsabs.harvard.edu/abs/2020AJ....160...63M/abstract"
-    Text: "Paper"
+    Text: "Other Journal Name"
 
 ---
 
@@ -24,7 +24,10 @@ Cold brown dwarfs are excellent analogs of widely separated, gas giant exoplanet
 
 ---
 
-##### Figure 1: The brown dwarf spectral sample including Jupiter. This pre-JWST-era paper connected the chemistry seen in the coldest brown dwarfs and the Solar System's biggest gas giant, Jupiter.
+##### Figure: The brown dwarf spectral sample including Jupiter. Test
+
+This project was executed and completed before the JWST-era. 
+
 ![](m_band_sequence.png)
 
 ---

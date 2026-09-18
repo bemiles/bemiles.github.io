@@ -1,32 +1,31 @@
 ---
-title: "Disequilibrium CO Chemistry in the Coldest Brown Dwarfs"
+title: Tracking Weather on the Coldest Brown Dwarf
 author: " "
 description: "" 
-summary: "Bridging the gap between chemistry in the coldest brown dwarfs and Solar System gas giant planets." 
+summary: "Time-Series JWST/NIRSpec observations of WISE 0855." 
 cover:
-    image: "bd_banner.jpg"
+    image: "light_curves.jpg"
     alt: "Image caption"
     relative: false
 editPost:
-    URL: "https://ui.adsabs.harvard.edu/abs/2020AJ....160...63M/abstract"
+    URL: "https://arxiv.org/abs/2609.20664"
     Text: "Paper"
 
 ---
 
 ---
 
-##### Summary
+<p> WISE 0855 is one of our closest and coolest neighbors. This brown dwarf is only about 2 Jupiter masses, the same radius as Jupiter, and has a temperature of 265 K, cooler than Earth. We used NIRSpec on JWST to take a mid-infrared spectrum (2.87 - 5.27 microns) of WISE 0855 every 15 minutes over an 11 hour period. The variations within the time-series are wavelength dependent with the dominant changes occuring within the carbon monoxide absorption bands. Variable signatures of phosphine were also observed. Changes within the water vapor bands are significantly muted compared to the disequilibrium (carbon monoxide and phosphine) molecules which are impacted by deeper convection. Models that include water clouds are required to match the overall spectrum.</p>
 
-Cold brown dwarfs are excellent analogs of widely separated, gas giant exoplanets, and provide insight into the potential atmospheric chemistry and physics we may encounter in objects discovered by future direct imaging surveys.  For this project we completed a low resolution (R∼300) M-band spectroscopic sequence of seven brown dwarfs with effective temperatures between 750 K and 250 K along with Jupiter. These spectra reveal disequilibrium abundances of carbon monoxide (CO), which are produced by atmospheric quenching driven by convection.  We estimated the strength of vertical mixing from the CO abundances by calculating the eddy diffusion coefficient (K<sub>zz</sub>) for each brown dwarf and Jupiter. The K<sub>zz</sub> values of cooler objects are close to their theoretical maximum and warmer objects show weaker mixing, likely due to less efficient convective mixing in primarily radiative layers. The CO-derived K<sub>zz</sub> values imply that disequilibrium phosphine (PH<sub>3</sub>) should be easily observable in all of the brown dwarfs, but none show any evidence for PH<sub>3</sub> absorption.  We find that ammonia (NH<sub>3</sub>) is relatively insensitive to atmospheric quenching at these effective temperatures.
+##### Figure: Spectral light curves of WISE 0855 focused on wavelengths impacted by carbon monoxide and water vapor. The mininum and maximum brightness spectrum are plotted along with the relative changes over time in the bottom panel.
 
-<p>You can read the paper and get the spectra <a href = "https://ui.adsabs.harvard.edu/abs/2020arXiv200410770M/abstract"> here. </a></p>
+![](spectro_light_curves.jpg)
+
+We used principal component analysis to understand the driving forces behind the time-series data. The light curves must be the result of a combination of at mininum two different surface features on WISE 0855. The observed changes in carbon monoxide and phosphine are impacted by low altitude changes in temperature. Higher altitude variations could be the result of temperature variations and water clouds changing thickness in the visible hemisphere.
+
+<p>You can read the paper <a href = "https://arxiv.org/abs/2609.20664"> here. </a></p>
+
+![](schematic.jpg)
 
 
 ---
-
-##### Figure 1: The brown dwarf spectral sample including Jupiter. This pre-JWST-era paper connected the chemistry seen in the coldest brown dwarfs and the Solar System's biggest gas giant, Jupiter.
-![](m_band_sequence.png)
-
----
-
-<p style="text-align:center;"><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2EznBGrlmx9wBeYgyDojsA?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></p>
