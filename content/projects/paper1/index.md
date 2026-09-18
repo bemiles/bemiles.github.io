@@ -4,7 +4,7 @@ author: " "
 description: "" 
 summary: "Bridging the gap between chemistry in the coldest brown dwarfs and Solar System gas giant planets." 
 cover:
-    image: ""
+    image: "bd_banner.jpg"
     alt: "Image caption"
     relative: false
 editPost:

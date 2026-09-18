@@ -149,5 +149,14 @@ Spring 2026 ASTR302</description>
       <description>Mapping 1-D Mixing Profiles of Brown Dwarfs with JWST.</description>
     </item>
     
+    <item>
+      <title>Tracking Weather on the Coldest Brown Dwarf</title>
+      <link>//localhost:1313/projects/paper3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/paper3/</guid>
+      <description>Time-Series JWST/NIRSpec observations of WISE 0855.</description>
+    </item>
+    
   </channel>
 </rss>

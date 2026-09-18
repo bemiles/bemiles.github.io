@@ -76,5 +76,7 @@
     <loc>//localhost:1313/projects/</loc>
   </url><url>
     <loc>//localhost:1313/projects/paper4/</loc>
+  </url><url>
+    <loc>//localhost:1313/projects/paper3/</loc>
   </url>
 </urlset>

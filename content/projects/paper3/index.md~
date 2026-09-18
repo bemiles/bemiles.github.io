@@ -1,0 +1,27 @@
+---
+title: Tracking Weather on the Coldest Brown Dwarf
+author: " "
+description: "" 
+summary: "Time-Series JWST/NIRSpec observations of WISE 0855." 
+cover:
+    image: "light_curves.jpg"
+    alt: "Image caption"
+    relative: false
+editPost:
+    URL: "https://arxiv.org/abs/2609.20664"
+    Text: "Paper"
+
+---
+
+---
+
+<p>  I am the PI of a JWST Cycle 2 program (#4084) to test if and how surface gravity determines the atmospheric mixing profile of a brown dwarf. Motivated by the theoretical atmospheric work of my Co-I <a href="https://sagnickm.github.io/"> Sagnick Mukherjee</a>, our data set will uncover the connection between atmospheric structure and apparent atmospheric chemistry. This fundamental work is applicable to all spectral types of brown dwarfs and important for understanding the atmospheres of directly imaged, gas giant exoplanets test.</p>
+
+
+
+![](spectro_light_curves.jpg)
+
+![](schematic.jpg)
+
+
+---
